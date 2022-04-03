@@ -1,0 +1,10 @@
+hzn header
+u16 buildVersionNumber	
+b8 gameState
+s8 ambientTemperature
+s8 trackTemperature
+u8 rainDensity
+u8 snowDensity
+s8 windSpeed
+s8 windDirectionX
+s8 windDirectionY

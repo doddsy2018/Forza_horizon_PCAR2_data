@@ -1,0 +1,6 @@
+u32 packetNumber		
+u32 categoryPacketNumber
+u8 partialPacketIndex
+u8 partialPacketNumber
+u8 packetType
+u8 packetVersion

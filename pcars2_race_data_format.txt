@@ -1,0 +1,16 @@
+hzn header		
+f32 worldFastestLapTime
+f32 personalFastestLapTime
+f32 personalFastestSector1Time
+f32 personalFastestSector2Time
+f32 personalFastestSector3Time
+f32 worldFastestSector1Time
+f32 worldFastestSector2Time
+f32 worldFastestSector3Time
+f32 trackLength
+c64 trackLocation
+c64 trackVariation
+c64 translatedTrackLocation
+c64 translatedTrackVariation
+u16 lapsTimeInEvent
+u8 enforcedPitStopLap

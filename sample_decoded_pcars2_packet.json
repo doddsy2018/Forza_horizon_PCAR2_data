@@ -1,0 +1,275 @@
+{
+	"timestamp": 1648953550.445156,
+	"gameState": {
+		"header": 0,
+		"buildVersionNumber": 0,
+		"gameState": "INGAME_PLAYING",
+		"ambientTemperature": 34,
+		"trackTemperature": 60,
+		"rainDensity": 0,
+		"snowDensity": 0,
+		"windSpeed": 0,
+		"windDirectionX": 6,
+		"windDirectionY": -75,
+		"sessionState": "RACE"
+	},
+	"raceData": {
+		"header": 0,
+		"worldFastestLapTime": 134.1060028076172,
+		"personalFastestLapTime": -123.0,
+		"personalFastestSector1Time": -123.0,
+		"personalFastestSector2Time": -123.0,
+		"personalFastestSector3Time": -123.0,
+		"worldFastestSector1Time": 35.441001892089847,
+		"worldFastestSector2Time": 48.3380012512207,
+		"worldFastestSector3Time": 50.326995849609378,
+		"trackLength": 5440.3896484375,
+		"trackLocation": "Circuit_of_the_Americas",
+		"trackVariation": "GP",
+		"translatedTrackLocation": "Circuit of the Americas",
+		"translatedTrackVariation": "Grand Prix",
+		"lapsTimeInEvent": 10,
+		"enforcedPitStopLap": 0
+	},
+	"telemetry": {
+		"header": 0,
+		"viewedParticipantIndex": 0,
+		"unfilteredThrottle": 0,
+		"unfilteredBrake": 0,
+		"unfilteredSteering": 0,
+		"unfilteredClutch": 0,
+		"carFlags": 2,
+		"oilTempCelsius": 56,
+		"oilPressureKPa": 278,
+		"waterTempCelsius": 53,
+		"waterPressureKpa": 148,
+		"fuelPressureKpa": 58,
+		"fuelCapacity": 72,
+		"brake": 0,
+		"throttle": 0,
+		"clutch": 0,
+		"fuelLevel": 0.6001961827278137,
+		"speed": 12.575920104980469,
+		"rpm": 4443,
+		"maxRpm": 8500,
+		"steering": 0,
+		"gearNumGears": 113,
+		"boostAmount": 0,
+		"crashState": 0,
+		"odometerKM": 0.06268011778593064,
+		"orientation": [
+			-0.006478148978203535,
+			-0.9086143374443054,
+			-0.02463361993432045
+		],
+		"localVelocity": [
+			0.00809943675994873,
+			0.0873599499464035,
+			-12.583271980285645
+		],
+		"worldVelocity": [
+			9.930388450622559,
+			0.005534989759325981,
+			-7.72873592376709
+		],
+		"angularVelocity": [
+			-0.0017722512129694224,
+			0.0012542476179078222,
+			0.0029919578228145839
+		],
+		"localAcceleration": [
+			0.02841871976852417,
+			-0.0837850496172905,
+			3.05471134185791
+		],
+		"worldAcceleration": [
+			-2.3932933807373049,
+			-0.06464892625808716,
+			1.8992187976837159
+		],
+		"extentsCentre": [
+			-2.9802322387695315e-8,
+			0.6770550012588501,
+			-0.13832008838653565
+		],
+		"tyreFlags": [
+			7,
+			7,
+			7,
+			7
+		],
+		"terrain": [
+			0,
+			0,
+			0,
+			0
+		],
+		"tyreY": [
+			0.05618705973029137,
+			0.05583537742495537,
+			0.047791145741939548,
+			0.047177888453006747
+		],
+		"tyreRPS": [
+			-39.56789016723633,
+			-39.574100494384769,
+			-35.333641052246097,
+			-35.333641052246097
+		],
+		"tyreTemp": [
+			52,
+			57,
+			58,
+			52
+		],
+		"tyreHeightAboveGround": [
+			-0.01977747678756714,
+			-0.01956235244870186,
+			-0.02547568827867508,
+			-0.02508094348013401
+		],
+		"tyreWear": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brakeDamage": [
+			0,
+			0,
+			0,
+			0
+		],
+		"suspensionDamage": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brakeTempCelsius": [
+			222,
+			222,
+			219,
+			219
+		],
+		"tyreTreadTemp": [
+			325,
+			331,
+			331,
+			325
+		],
+		"tyreLayerTemp": [
+			327,
+			330,
+			332,
+			328
+		],
+		"tyreCarcassTemp": [
+			333,
+			333,
+			332,
+			332
+		],
+		"tyreRimTemp": [
+			402,
+			402,
+			400,
+			400
+		],
+		"tyreInternalAirTemp": [
+			378,
+			378,
+			376,
+			376
+		],
+		"tyreTempLeft": [
+			52,
+			57,
+			58,
+			52
+		],
+		"tyreTempCenter": [
+			52,
+			57,
+			58,
+			52
+		],
+		"tyreTempRight": [
+			52,
+			57,
+			58,
+			52
+		],
+		"wheelLocalPositionY": [
+			-0.09424160420894623,
+			-0.09461894631385803,
+			-0.08264504373073578,
+			-0.08326329290866852
+		],
+		"rideHeight": [
+			0.086623914539814,
+			0.08726091682910919,
+			0.1038062795996666,
+			0.1048247441649437
+		],
+		"suspensionTravel": [
+			0.08046188205480576,
+			0.08082427829504013,
+			0.09866157174110413,
+			0.09928274154663086
+		],
+		"suspensionVelocity": [
+			-0.003939214162528515,
+			-0.012755710631608963,
+			-0.002849903889000416,
+			-0.004583723843097687
+		],
+		"suspensionRideHeight": [
+			8,
+			8,
+			10,
+			10
+		],
+		"airPressure[4]": [
+			223,
+			223,
+			209,
+			209
+		],
+		"engineSpeed": 464.8135070800781,
+		"engineTorque": -136.51002502441407,
+		"wings": [
+			0,
+			0
+		],
+		"handBrake": 0,
+		"aeroDamage": 0,
+		"engineDamage": 0
+	},
+	"timing": {
+		"header": 0,
+		"numParticipants": 16,
+		"participantsChangedTimestamp": 4235850,
+		"eventTimeRemaining": -11.012706756591797,
+		"splitTimeAhead": 42.516632080078128,
+		"splitTimeBehind": -1.0,
+		"splitTime": 0.0,
+		"worldPositionX": -62,
+		"worldPositionY": 128,
+		"worldPositionZ": 32,
+		"orientationX": 182,
+		"orientationY": 127,
+		"orientationZ": 127,
+		"currentLapDistance": 0,
+		"racePosition": 16,
+		"sector": 98,
+		"highestFlag": 0,
+		"pitModeSchedule": 0,
+		"carIndex": 65535,
+		"raceState": 10,
+		"currentLap": 1,
+		"currentTime": 73.4520263671875,
+		"currentSectorTime": 73.4520263671875,
+		"mpParticipantIndex": 0
+	}
+}
